@@ -148,3 +148,21 @@
 
 // console.log(isNumberInRange(7));
 
+// На подумать: Как работает код
+// let a = [1,2,2,2,4, -5, 5, - 5, 5 -8, -10];   
+// const b = a.filter((item, index) => {
+//     return index === a.indexOf(item);
+
+// })
+// console.log(b);
+
+
+
+
+
+// let c = Object.assign(a,b)
+
+
+// console.log(a);
+// console.log(b);
+// console.log(c);
